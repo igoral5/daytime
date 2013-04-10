@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+/CMakeFiles
+/daytimecli
+/daytimesrv
+/cmake_install.cmake
+/CMakeCache.txt
+/Makefile
+/.cproject
+/.project
+/.settings
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+>>>>>>> branch 'master' of git@github.com:igoral5/daytime.git
